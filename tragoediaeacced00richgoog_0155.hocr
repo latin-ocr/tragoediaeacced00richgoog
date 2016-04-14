@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tragoediaeacced00richgoog_0155.png"; bbox 0 0 2750 4250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 629 1755 869 1822">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 629 1755 869 1822">
+     <span class='ocr_line' id='line_1_1' title="bbox 629 1755 869 1822; baseline 0.029 -6"><span class='ocrx_word' id='word_1_1' title='bbox 629 1755 869 1822; x_wconf 75' lang='lat' dir='ltr'>PERSONAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 648 1923 837 2054">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 648 1923 837 2054">
+     <span class='ocr_line' id='line_1_2' title="bbox 657 1923 813 1968; baseline 0.026 -4"><span class='ocrx_word' id='word_1_2' title='bbox 657 1923 674 1964; x_wconf 88' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_3' title='bbox 694 1923 813 1968; x_wconf 87' lang='lat' dir='ltr'>OEDlPVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 648 2007 837 2054; baseline 0.042 -7"><span class='ocrx_word' id='word_1_4' title='bbox 648 2007 674 2049; x_wconf 88' lang='lat'>11.</span> <span class='ocrx_word' id='word_1_5' title='bbox 693 2009 837 2054; x_wconf 77' lang='lat' dir='ltr'>ANTIGONA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1380 4250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1380 4250">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1380 4250; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1380 4250; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
